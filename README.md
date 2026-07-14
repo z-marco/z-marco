@@ -34,9 +34,11 @@ I enjoy working with a variety of technologies and am always eager to learn new 
 - **Tools & Platforms**: Git, GitHub, and modern development environments
 - **Areas of Interest**: Software development, problem-solving, and continuous learning
 
+<!--
 ## 📈 GitHub Stats
 
 ![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=z-marco&show_icons=true&theme=default)
+-->
 
 ## 🤝 Let's Connect!
 
